@@ -67,6 +67,9 @@ public class User {
    public String getEmail() {
       return email;
    }
+   public Car getCar() {
+      return car;
+   }
 
    public void setEmail(String email) {
       this.email = email;
